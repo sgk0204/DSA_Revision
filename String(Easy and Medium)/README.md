@@ -7,4 +7,6 @@
 
 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [C++](./ReverseWordsinaString.cpp) |
 
+| [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) | [C++](./LargestOddNumberinString.cpp) |
+
 ---
