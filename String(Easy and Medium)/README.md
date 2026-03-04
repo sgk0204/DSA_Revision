@@ -9,4 +9,6 @@
 
 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/) | [C++](./LargestOddNumberinString.cpp) |
 
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](./LargestOddNumberinString.cpp) |
+
 ---
