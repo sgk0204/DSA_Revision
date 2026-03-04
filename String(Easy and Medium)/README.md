@@ -11,4 +11,5 @@
 
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [C++](./LargestOddNumberinString.cpp) |
 
+| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [C++](./IsomorphicStrings.cpp) |
 ---
