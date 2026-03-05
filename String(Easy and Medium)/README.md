@@ -12,5 +12,6 @@
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [C++](./ValidAnagram.cpp) |
 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [C++](./SortCharactersByFrequency.cpp) |
 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/) | [C++](./MaximumNestingDepthoftheParentheses.cpp) |
+| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [C++](./RomantoInteger.cpp) |
 
 ---
