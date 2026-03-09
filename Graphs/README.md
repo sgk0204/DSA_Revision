@@ -9,6 +9,7 @@
 | [Course Schedule](https://leetcode.com/problems/course-schedule/description/) | [C++](./CourseSchedule.cpp) |
 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [C++](./01Matrix.cpp) |
 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [C++](./01Matrix.cpp) |
-| [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | [C++](./01Matrix.cpp) |
+| [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | [C++](./NumberofEnclaves.cpp) |
+| [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](./NumberofEnclaves.cpp) |
 
 ---
