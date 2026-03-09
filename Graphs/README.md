@@ -11,5 +11,7 @@
 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [C++](./01Matrix.cpp) |
 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/description/) | [C++](./NumberofEnclaves.cpp) |
 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](./WordLadder.cpp) |
+| [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [C++](./WordLadder2.cpp) |
+| [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [C++](./NumberofIslands.cpp) |
 
 ---
