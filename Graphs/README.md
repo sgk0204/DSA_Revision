@@ -13,5 +13,7 @@
 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [C++](./WordLadder.cpp) |
 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [C++](./WordLadder2.cpp) |
 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [C++](./NumberofIslands.cpp) |
+| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [C++](./IsBipartite.cpp) |
+| [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/) | [C++](./CourseSchedule2.cpp) |
 
 ---
